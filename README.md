@@ -55,3 +55,4 @@ The Jupyter Notebook `activation_steering.ipynb` was used in our experiments reg
 2. Train the probes
 3. Cross model/prompting evaluation, etc.
 4. Steering effects!
+5. Upload dataset to hugging face
