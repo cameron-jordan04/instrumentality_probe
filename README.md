@@ -2,7 +2,17 @@
 
 ### Key Findings
 
+###
 
+Generate new prompt dataset (terminal prompts only) D -- find contextualized task dataset
+
+Run D through Llama 3.1 8B Base to get response dataset A_D
+
+Run D through Llama 3.1 8B Base + steering vector at layer 13 to get response dataset B_D
+
+Run A_D and B_D through a more powerful model in order to do two things:
+1. Given prompt (to predict Instrumental vs Terminal) + output from A_D/B_D and get next token probabilities
+2. Given prompt (with grading rubric) + output from A_D/B_D and ask model classify or grade
 
 ### Dataset Generation
 #### Contrastive Prompt Dataset
