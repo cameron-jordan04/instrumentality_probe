@@ -1,6 +1,6 @@
 ## Linear Features Represent the Instrumentality of Goal Pursuit in Transformers
 
-**Authors:** [Cameron Jordan, Jaewon Chang, Vijar Kethanaboyina, and Zachary Pricz/UC Berkeley EECS]  
+**Authors:** [Cameron Jordan, Jaewon Chang, Vijay Kethanaboyina, and Zachary Pricz/UC Berkeley EECS]  
 **Model Focus:** Llama 3.1 8B (Base & Instruct)
 
 ## 📌 Abstract
